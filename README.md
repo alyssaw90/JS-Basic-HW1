@@ -20,7 +20,7 @@ This homework will focus on the following skills:
         * Create two variables each storing number. Divide them to get the quotient of the two numbers.
 
     * Multiplication
-    * Create two variables each storing number. Multiple them together to get the product of the two numbers
+      *  Create two variables each storing number. Multiple them together to get the product of the two numbers
 
 2. **String Concatenation**
     * Take two strings, “Hello” and “World” store each in their own variable and concatenate the two strings together. The result should be “Hello World”. Store the result in a new variable.
